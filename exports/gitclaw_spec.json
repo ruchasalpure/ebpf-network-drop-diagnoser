@@ -1,0 +1,5 @@
+{
+  "protocol": "gitclaw-0.1",
+  "agent": "ebpf-network-drop-diagnoser",
+  "visas": 15
+}

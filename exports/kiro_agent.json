@@ -1,0 +1,5 @@
+{
+  "name": "ebpf-network-drop-diagnoser",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
