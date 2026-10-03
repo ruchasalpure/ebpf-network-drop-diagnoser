@@ -1,8 +1,0 @@
-{
-  "agent_id": "ebpf-network-drop-diagnoser",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

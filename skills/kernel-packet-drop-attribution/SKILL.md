@@ -1,17 +1,25 @@
 ---
-name: "kernel-packet-drop-attribution"
-description: "Attributes kfree_skb events directly to network interface queues, iptables rules, and socket memory limits"
-version: "1.0.0"
-category: "devtools"
+name: kernel-packet-drop-attribution
+description: Specialized capability for Ebpf Network Drop Diagnoser.
+license: MIT
+allowed-tools: ""
+metadata:
+  author: "Rucha Salpure"
+  version: "1.0.0"
+  category: devtools
 ---
 
-# Skill: kernel-packet-drop-attribution
+# Ebpf Network Drop Diagnoser — KERNEL PACKET DROP ATTRIBUTION Skill
 
-## Overview
-Attributes kfree_skb events directly to network interface queues, iptables rules, and socket memory limits.
+## Purpose
+The `kernel-packet-drop-attribution` capability provides high-assurance execution routines for `Ebpf Network Drop Diagnoser`.
 
-## Execution Steps
-1. Parse and validate runtime parameters against the formal domain schema.
-2. Execute core computational and heuristic analysis pipeline.
-3. Format structured observations for Maker-Checker dual control review.
-4. Log all telemetry and performance metrics to the governance ledger.
+## Execution Workflow
+1. Validate input parameters against typed schemas and invariant constraints.
+2. Ingest contextual metrics and establish a deterministic baseline.
+3. Formulate candidate recommendations with explicit confidence intervals.
+4. Submit draft plans to the independent checker agent for verification.
+
+## Boundary Conditions
+- **Input validation:** Reject non-conforming or malformed payloads before evaluation.
+- **Fail-safe:** Escalate immediately if telemetry indicators exhibit critical anomalies.

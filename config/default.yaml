@@ -1,6 +1,0 @@
-app:
-  name: "ebpf-network-drop-diagnoser"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

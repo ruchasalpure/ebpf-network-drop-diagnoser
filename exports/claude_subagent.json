@@ -1,5 +1,0 @@
-{
-  "name": "ebpf-network-drop-diagnoser",
-  "description": "Claude Code subagent for Ebpf Network Drop Diagnoser",
-  "prompt": "You are Ebpf Network Drop Diagnoser. Execute domain tasks with high precision."
-}
